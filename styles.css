@@ -111,3 +111,10 @@ strong {
 i {
     font-style: italic;
 }
+
+.theGuyYouWantWorkingForYou {
+    width:30%;
+    height:30%;
+    float:right;
+    border:6px solid #666;
+}

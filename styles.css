@@ -59,7 +59,7 @@ body {
 h1 {
     font-size: 1.8em;
     font-weight: 800;
-    padding:2%;
+    padding:2% 1% 6% 2%;
 }
 
 h2 {
@@ -116,5 +116,6 @@ i {
     width:30%;
     height:30%;
     float:right;
+    margin-top:-2%;
     border:6px solid #666;
 }

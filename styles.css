@@ -83,7 +83,7 @@ ul {
 }
 
 .io2 {
-    padding-left: 30%;
+    padding-left: 28%;
 }
 
 .io3 {
@@ -106,4 +106,8 @@ li {
 strong {
     text-size: 110%;
     font-weight:bold;
+}
+
+i {
+    font-style: italic;
 }

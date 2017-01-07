@@ -49,6 +49,17 @@ h1 {
     padding:4% 1% 6% 2%;
 }
 
+@media only screen and (max-width: 714px) {
+    h1 {
+        padding-top: 8%;
+    }
+}
+@media only screen and (max-width: 584px) {
+    h1 {
+        padding-top: 70px;
+    }
+}
+
 h2 {
     font-size: 1.6em;
     font-weight: 600;
@@ -68,7 +79,7 @@ h3 {
 }
 
 .links li {
-    float: left;
+    float: right;
     list-style-type: none;
 }
 

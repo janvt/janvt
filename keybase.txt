@@ -1,0 +1,75 @@
+://keybase.io/janvt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://janvt.github.io
+  * I am janvt (https://keybase.io/janvt) on keybase.
+  * I have a public key with fingerprint 09A8 77A2 0936 CD0D B793  B1F6 B85C 6D18 89BA 9899
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120854631236cdcbb44f795ca17538dd0e7d3e8a382512735b48b706daaca3cada80a",
+            "fingerprint": "09a877a20936cd0db793b1f6b85c6d1889ba9899",
+            "host": "keybase.io",
+            "key_id": "b85c6d1889ba9899",
+            "kid": "0101eb63f1d04a552f991b42c38b2e3331de8f5d0c22882aac8d6d9863cb9ec85bc00a",
+            "uid": "ec56f07d7c45a82d807bb06d52f7a819",
+            "username": "janvt"
+        },
+        "service": {
+            "hostname": "janvt.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483790752,
+    "expire_in": 157680000,
+    "prev": "37d3443a9dac1571110a42b4935b92c918de8f67ecc26c7d651abe041e654622",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJ9TJVVGL98iHQJFAeBySa8iE5C936/58WYd6asVjPIj1Dvhuec99zL
+K3Dv5d73YiTgBENsbaAMgi0ZA2SYwSjEBD8YhpEzNpiUSFZKjBKKWARoE+l9Kbf+
+6Pxzdp7n9/s9v+c5T2+wn8nsc8maHXmyq7rG51ZPtdeU5rpbd4RCTiWPSjxCZZKl
+i2QpxKOlZ6oKlUjRDEsDgRc5huVErGCEeN4myQKGjCRwQFFoIikcAZADrMCwEicg
+HiCJFhUIMeQwVCCgIZVA2VSHnbhdbtWhGbIyBJIEWVo2VGkFSTKHGJuIgIBFhQFA
+RlAGsqwTM5weg6GbQ9BDNqtOPaY/0pfs/Q/+mW+aIUjkbIxC81AQWJssM4hnMQcQ
+SziOYxQCbIJCY5YFgNXNAkVUZCByGMkEAwFhesm3d0mOYEG00ZIiYV6AgFUALSGk
+N6nrShAwRl2vh7gdMJvo6EPQkatRBQmUHspVMTGmarTx3/Rmu6pleNE//bjcTs2J
+nVl6MkPTXJ5Eg6zluQz0YYLS/9VJR6pD0eeoM3KJ26M6HVQioyOxphrCDA84SaYl
+gU2gyDsu1U3SVQMhSCKg9WPUIbm6JKd/Gc9zUFYg1rMMw9CQZxEv678ns1hmgDEc
+USIYsyKWFFFgICI0zxBRXwWWpYzOchxOo6TuE9p1TY9qd0DN6yZUwfUeq7/Jx2wK
+WOZrLJjJ/NzKZ2v3m3XF0yRLV17RmrGhMvf08YVUbk+q7+uv7mssbXWVZFYCd/WB
+n5NPxVmim0oKDjwung/f+kPTjrDsnVdKwxq+rI5Sm+2F3zijQVtfUOhJ/+MlLzu3
+9Jr3fnrx0dSjQDr0npfJqhtcntBy9Fr73tpyLegUYcNfs3aOVje9MurqesCY6+Zi
+tQ+aYy0fFfuEpOL4sj9c+fkBdwoeNm+avIjOeSp/r3/0wsdfh3Z3VOR/fjBn+Bqs
+jUBvBn8Xvaqj5avwXSOkgV1lXjGwrvzJ+eC45JsDojV+fdbWC5GXfsocrJwIm3y3
+dsfsBm1bT1PcSvOhp7etprFzJW1VA+rCzZhtn4wVbO9/uOBbnHZ1PHJPY+PQjzHB
+s1M3zlt92IO3hmb+ujcyvlAbU5Yy2jpVUeXZMtlbUrnxw/aoszhk/HLxULEtorLb
+Z5/li7L7uK/vzvTRXZtWX77qv+Etv/Uz0xfy0eLO+IyS8vKiqoqZ6hQ/PBKwcXvS
+vKl+Wdr+oMDSKpLyvuhle2sGI4pI95We5Pne1D/Zopya/Wkp95/vuFtvqe18sPzF
+w3Nvzw9zlqn3FrJWP7GvHV7QfgEpZ47VJIQIrVG5hd/n7x7pHzD3Dt4OLSW/xlr6
+l73UFTh74nTfzOOozyaWtycdWywyn73BrghsIeB6QidVONs2t5j3BhR3r1vrn3ri
+TM3Etw0Na6L+Bj8Gwl8=
+=4IqV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/janvt
+
+==================================================================
+

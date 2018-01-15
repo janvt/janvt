@@ -60,6 +60,62 @@ h1 {
     }
 }
 
+@media print {
+    .links, .links * {
+        display: none;
+    }
+}
+
+h2 {
+    font-size: 1.6em;
+    font-weight: 600;
+    padding: 3% 5% 2% 5%;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 400;
+    padding: 0 0 2% 0;
+}
+
+ul {
+    padding: 0 2% 2% 24%;
+}
+
+.io1 {
+    padding-left: 15%;
+}
+
+.io2 {
+    padding-left: 28%;
+}
+
+.io3 {
+    padding-left: 20%;
+}
+
+.io4 {
+    padding-left:12%;
+}
+
+.l2 {
+    padding: 0 2% 2% 3%;
+}
+
+li {
+    line-height: 1.5em;
+    list-style-type: square;
+}
+
+strong {
+    text-size: 110%;
+    font-weight:bold;
+}
+
+i {
+    font-style: italic;
+}
+
 .theGuyYouWantWorkingForYou {
     width:30%;
     height:30%;

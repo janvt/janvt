@@ -80,6 +80,10 @@ a, a:visited, a:hover, a:active {
     text-decoration: underline;
 }
 
+.strike {
+    text-decoration: line-through;
+}
+
 @media only screen and (max-width: 714px) {
     h1 {
         font-size: 1.5em;

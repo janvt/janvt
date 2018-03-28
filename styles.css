@@ -73,6 +73,7 @@ p {
     font-size: 2.4em;
     font-weight: 800;
     line-height: 1.4em;
+    margin-bottom: 12px;
 }
 
 a, a:visited, a:hover, a:active {

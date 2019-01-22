@@ -123,3 +123,8 @@ i {
     margin-top:-2%;
     border:2px solid #222;
 }
+
+a, a:visited, a:hover, a:active {
+    color:#333;
+    text-decoration: underline;
+}

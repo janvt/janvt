@@ -1,1 +1,1 @@
-# janvt.github.io
+# janvt.io

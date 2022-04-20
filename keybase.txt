@@ -1,69 +1,70 @@
-://keybase.io/janvt
+==================================================================
+https://keybase.io/janvt
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://janvt.github.io
+  * I am an admin of https://janvt.dev
   * I am janvt (https://keybase.io/janvt) on keybase.
   * I have a public key with fingerprint 09A8 77A2 0936 CD0D B793  B1F6 B85C 6D18 89BA 9899
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0120854631236cdcbb44f795ca17538dd0e7d3e8a382512735b48b706daaca3cada80a",
-            "fingerprint": "09a877a20936cd0db793b1f6b85c6d1889ba9899",
-            "host": "keybase.io",
-            "key_id": "b85c6d1889ba9899",
-            "kid": "0101eb63f1d04a552f991b42c38b2e3331de8f5d0c22882aac8d6d9863cb9ec85bc00a",
-            "uid": "ec56f07d7c45a82d807bb06d52f7a819",
-            "username": "janvt"
-        },
-        "service": {
-            "hostname": "janvt.github.io",
-            "protocol": "https:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120854631236cdcbb44f795ca17538dd0e7d3e8a382512735b48b706daaca3cada80a",
+      "fingerprint": "09a877a20936cd0db793b1f6b85c6d1889ba9899",
+      "host": "keybase.io",
+      "key_id": "b85c6d1889ba9899",
+      "kid": "0101eb63f1d04a552f991b42c38b2e3331de8f5d0c22882aac8d6d9863cb9ec85bc00a",
+      "uid": "ec56f07d7c45a82d807bb06d52f7a819",
+      "username": "janvt"
     },
-    "ctime": 1483790752,
-    "expire_in": 157680000,
-    "prev": "37d3443a9dac1571110a42b4935b92c918de8f67ecc26c7d651abe041e654622",
-    "seqno": 14,
-    "tag": "signature"
+    "service": {
+      "hostname": "janvt.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1650460250,
+  "expire_in": 157680000,
+  "prev": "6327336bef21f3941f4a42f2c7e4286154b7b5e4cc396c8135b642ea9ff55944",
+  "seqno": 37,
+  "tag": "signature"
 }
 
 which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.61
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-yMNrAnicbVJ9TJVVGL98iHQJFAeBySa8iE5C936/58WYd6asVjPIj1Dvhuec99zL
-K3Dv5d73YiTgBENsbaAMgi0ZA2SYwSjEBD8YhpEzNpiUSFZKjBKKWARoE+l9Kbf+
-6Pxzdp7n9/s9v+c5T2+wn8nsc8maHXmyq7rG51ZPtdeU5rpbd4RCTiWPSjxCZZKl
-i2QpxKOlZ6oKlUjRDEsDgRc5huVErGCEeN4myQKGjCRwQFFoIikcAZADrMCwEicg
-HiCJFhUIMeQwVCCgIZVA2VSHnbhdbtWhGbIyBJIEWVo2VGkFSTKHGJuIgIBFhQFA
-RlAGsqwTM5weg6GbQ9BDNqtOPaY/0pfs/Q/+mW+aIUjkbIxC81AQWJssM4hnMQcQ
-SziOYxQCbIJCY5YFgNXNAkVUZCByGMkEAwFhesm3d0mOYEG00ZIiYV6AgFUALSGk
-N6nrShAwRl2vh7gdMJvo6EPQkatRBQmUHspVMTGmarTx3/Rmu6pleNE//bjcTs2J
-nVl6MkPTXJ5Eg6zluQz0YYLS/9VJR6pD0eeoM3KJ26M6HVQioyOxphrCDA84SaYl
-gU2gyDsu1U3SVQMhSCKg9WPUIbm6JKd/Gc9zUFYg1rMMw9CQZxEv678ns1hmgDEc
-USIYsyKWFFFgICI0zxBRXwWWpYzOchxOo6TuE9p1TY9qd0DN6yZUwfUeq7/Jx2wK
-WOZrLJjJ/NzKZ2v3m3XF0yRLV17RmrGhMvf08YVUbk+q7+uv7mssbXWVZFYCd/WB
-n5NPxVmim0oKDjwung/f+kPTjrDsnVdKwxq+rI5Sm+2F3zijQVtfUOhJ/+MlLzu3
-9Jr3fnrx0dSjQDr0npfJqhtcntBy9Fr73tpyLegUYcNfs3aOVje9MurqesCY6+Zi
-tQ+aYy0fFfuEpOL4sj9c+fkBdwoeNm+avIjOeSp/r3/0wsdfh3Z3VOR/fjBn+Bqs
-jUBvBn8Xvaqj5avwXSOkgV1lXjGwrvzJ+eC45JsDojV+fdbWC5GXfsocrJwIm3y3
-dsfsBm1bT1PcSvOhp7etprFzJW1VA+rCzZhtn4wVbO9/uOBbnHZ1PHJPY+PQjzHB
-s1M3zlt92IO3hmb+ujcyvlAbU5Yy2jpVUeXZMtlbUrnxw/aoszhk/HLxULEtorLb
-Z5/li7L7uK/vzvTRXZtWX77qv+Etv/Uz0xfy0eLO+IyS8vKiqoqZ6hQ/PBKwcXvS
-vKl+Wdr+oMDSKpLyvuhle2sGI4pI95We5Pne1D/Zopya/Wkp95/vuFtvqe18sPzF
-w3Nvzw9zlqn3FrJWP7GvHV7QfgEpZ47VJIQIrVG5hd/n7x7pHzD3Dt4OLSW/xlr6
-l73UFTh74nTfzOOozyaWtycdWywyn73BrghsIeB6QidVONs2t5j3BhR3r1vrn3ri
-TM3Etw0Na6L+Bj8Gwl8=
-=4IqV
+yMNtAnicbVJrTBxVGN2VssZFkAItpLS0HSmGsoV5PxatkQIlAUXRqNTV3bkzd5Yp
+dHfdHRaQIF22QgSMUCqPNi2pUvqwIT5SoE0A2YI0gIVQarRRKKkQjJQGTTR9SJ0h
+NvGH98/N/e455zvfYyg0SGfU91oOxHx4qbVNPzZ4uFgHbIZ95QhwimWIuRwphGsX
+LBKhR7EWyiJiRlAMR1mKpAkMJ2hBFAAgSYnhKIHHGIpgRRGFjEhAlidYnMJwhqAA
+yQIGpUWeF3hC4EWeRXnEhEiyww7dLrfsUDRZjmcZhsdRTlNFRcBwBMAkGrCUQIsY
+y3KA51iOU4kFTo/GUM0B3gOTZacaUx/WNXv/g3/kG8UgoAkJE1GSpyhc4jgMkLhA
+sACHBEFgImQlSkQFHGdZXDXLirTIsTQhAA4KLAUEdM138ZocFChaQhmREUiKZ3GR
+RRkA1CJVXYZnMS1vsQe6HfwBqKL38w6vglSYEDXklQWodVUr47/fySL0qiyX26k4
+BWeRGi5QFJfHrNGUMpeGK4HA+q+CFcgOUe2gyvBCt0d2OhAzpiIFRdYkMZpCSRrF
+KdSEwFKX7IZWWUNQDM2i6tHyqOnMCE2oIyJoACUckwiOxCSSJ3EJFxhI4iyNUSRg
+AAVJQSA4WmAxdZw0iUOekySK4kgS0Wp61+FEzASj+uTtqqZHtjt4pdgNkYrAoGWd
+Tm/UGYIf01ZLZ3wi/NHC5bc8tUotp4QeDx6usQSORAUZhuIf2KrmueY3Yg8l9ACm
+s95izB1MH4+2re//+Ly/5Si6KTNla0iI/2Cb7iyfGEuUjCfZ795KCvqxeaZ+5Mbr
+q4sTX9BT2Tu5uU0dLuXZRWRoOT27buvUxsTD1W1IdP6MQUqLKloZjAw779/26/DN
+/ZmlViH66WPzC3Ln0qrv+V0NaZt/axiXaotLzsRxZX+/HFrzS03g1O6Rs94LF3TZ
+suHx3PRbsi1n1hlUnVDW9p5/tHshtWmgOm6zvyn1zldhb32/z1B9+4N1ecPtjYEM
+/d4TttN/jMp30we6Iz9d+dN/8RXjjayImYWUl+L1vXZl4bXJDfNXMv7qB8u+sWs9
+pUs9uwOFXFawktzyQrzF1p0z0XJsR6j+cm96xsR04cj1CXwpeps+4nfnR857DQ8r
+r5C+5lj9i5WZ+RsDfRcXn7HM7n2yvKvuxNSZyUN+Osd/f+DtxqnG+u09ZbW7Osub
+CqL8p+5kbRnjTXNJ9pig9s9Tfirt3fBd1WklM/xBr28l5vq34Pg3eZctuQlpVwe2
+dRztF+u+Xn/StSei8svZrr5M+uFoa+3cjOmHtLiwn82JO6dj3h+en2w/mRCy482a
+q9N7qvI6Sul3WiOWjSX6ptCVvmv3fffq/XOfdOE+U8XBLWPeyHNcm/+5ltQjN7fP
+d33muH0pvJZ59dw/OMS3HQ==
+=qkOu
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -72,4 +73,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/janvt
 
 ==================================================================
-

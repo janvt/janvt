@@ -1,3 +1,3 @@
 # janvt
 
-More: [janvt.dev[(https://janvt.dev)
+More: [janvt.dev](https://janvt.dev)

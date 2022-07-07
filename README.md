@@ -10,5 +10,4 @@
 
 🐕 Dog dad
 
-
-More: [janvt.dev](https://janvt.dev)
+🌐 [janvt.dev](https://janvt.dev)

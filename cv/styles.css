@@ -137,6 +137,10 @@ a, a:visited, a:hover, a:active {
     text-decoration: underline;
 }
 
-.love li {
-    list-style-type: none
+.love li, li.pagebreak {
+    list-style-type: none;
+}
+
+@media print {
+    .pagebreak { page-break-before: always; }
 }

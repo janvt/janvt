@@ -4,8 +4,6 @@
 
 🌱 Plant powered
 
-🚛 Van lifer 
-
 🐕 Dog dad
 
 🌐 [janvt.dev](https://janvt.dev)

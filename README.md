@@ -2,7 +2,7 @@
 
 🧠 Luddite trapped in a software engineer brain
 
-🌱 Plant powered
+🏔️ Full time adventure nerd
 
 🐕 Dog dad
 
